@@ -1,1 +1,1 @@
-# DL Lecture ver 2021.07
+# DL Lecture 2021.07
